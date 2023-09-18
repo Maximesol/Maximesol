@@ -1,4 +1,4 @@
-
+![GifBanner](https://github.com/Maximesol/Maximesol/blob/main/image%20banner.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Maxime GOGNIES</h1>
 <h3 align="center">A passionate Full Stack developer - Blockchain Solidity from France</h3>
 
